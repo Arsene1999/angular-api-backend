@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-api-backend"
+    }
+  },
+  "defaultProject": "angular-api-backend",
+  "cli": {
+    "analytics": "09196933-86a1-44e4-a922-b8ed8cf2c2d1"
+  }
 }
